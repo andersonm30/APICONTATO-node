@@ -1,0 +1,20 @@
+{
+  "name": "rest-apicontato",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.3",
+    "express": "~4.16.3",
+    "mongoose": "~5.2.4",
+    "request": "~2.87.0"
+  },
+  "author": "Anderson Martiniano",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
